@@ -1,2 +1,2 @@
-# GitTest
-Testıng Gıt
+# Git Test Project
+Testing Git
